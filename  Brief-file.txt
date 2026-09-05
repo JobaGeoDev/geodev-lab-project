@@ -1,1 +1,20 @@
-Download project-brief.md
+# My Project brief 
+
+## The Question 
+Which areas of Ago-Iwoye have the highest potential for groundwater occurrence?
+
+## The data I need
+
+- Study area boundary – GADM / GRID3 – GeoPackage/Vector – ~2.6 MB for GADM
+- Geology – NGSA – PDF/GIS layer – Size depends on map
+- Elevation – Copernicus DEM GLO-30 – GeoTIFF – 30 m – Tile dependent
+- Slope – Derived from DEM in QGIS – GeoTIFF – Generated locally
+- Drainage/flow accumulation – HydroSHEDS – GeoTIFF – ~90 m – Tile dependent
+- Rivers and streams – HydroRIVERS – Shapefile – ~108 MB for Africa
+- Lineaments – Derived from DEM/hillshade – Vector – Generated locally
+- Soil – SoilGrids – GeoTIFF – 250 m – Area dependent
+- Land cover – ESA WorldCover – GeoTIFF – 10 m – Tile dependent
+- Rainfall – CHIRPS – GeoTIFF – 0.05° (~5 km) – Depends on period
+- Settlement extents – GRID3 – GeoPackage/Vector – Size depends on download
+- Population – GRID3 – Raster – 100 m – Size depends on download
+- Roads – GRID3 – Vector – Size depends on download
