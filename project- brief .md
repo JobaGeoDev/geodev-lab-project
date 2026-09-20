@@ -18,3 +18,35 @@ Which areas of Ago-Iwoye have the highest potential for groundwater occurrence?
 - Settlement extents – [GRID3](https://grid3.org/geospatial-data-nigeria) – GeoPackage/Vector – Size depends on download
 - Population – [GRID3](https://grid3.org/geospatial-data-nigeria) – Raster – 100 m – Size depends on download
 - Roads – [GRID3](https://grid3.org/geospatial-data-nigeria) – Vector – Size depends on download
+
+Expected Output
+
+The main output of the project will be a Groundwater Potential Map of Ago-Iwoye showing the spatial variation in groundwater potential.
+
+Additional outputs may include:
+
+• Study-area map
+• Geological map
+• DEM/elevation map
+• Slope map
+• Drainage-density map
+• Lineament-density map
+• Soil map
+• Land-cover map
+• Rainfall map
+• Weighted-overlay analysis
+• Final groundwater-potential classification map
+
+Software
+
+The main software for the project will be:
+
+• QGIS – spatial data processing, analysis and map production
+• GitHub – project documentation and version control
+• Python – optional support for data processing and automation where required
+
+Project Outcome
+
+The project is intended to demonstrate how GIS can be used to integrate multiple environmental and geological datasets to assess the spatial distribution of groundwater potential.
+
+The final map will provide a relative assessment of groundwater potential across Ago-Iwoye and can serve as a GIS-based reference for further groundwater investigation and planning.
